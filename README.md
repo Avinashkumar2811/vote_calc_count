@@ -14,3 +14,12 @@ Welcome to the Voting System! This simple web application allows users to vote f
 1. Open the HTML file in your favorite web browser.
 2. Click on the buttons to vote for your preferred party.
 3. See the real-time updates of the vote counts and the announcement of the winner.
+
+
+Contributing
+Feel free to fork this project and make your own enhancements! Here are some ideas:
+
+🆕 Add more parties to vote for.
+📈 Show a detailed vote count table.
+🖌️ Enhance the styling with CSS.
+
